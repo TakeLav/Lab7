@@ -1,0 +1,31 @@
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\programming technologies #7.exe
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\programming technologies #7.deps.json
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\programming technologies #7.runtimeconfig.json
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\programming technologies #7.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\programming technologies #7.pdb
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Npgsql.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.csproj.AssemblyReference.cache
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.AssemblyInfoInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.AssemblyInfo.cs
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.csproj.CoreCompileInputs.cache
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.csproj.CopyComplete
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\refint\programming technologies #7.dll
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.pdb
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\programming technologies #7.genruntimeconfig.cache
+C:\Users\pavlo\source\repos\programming technologies #7\programming technologies #7\obj\Debug\net8.0\ref\programming technologies #7.dll
